@@ -1,4 +1,4 @@
-package modulo5;
+package session5;
 
 import java.util.ArrayList;
 import java.util.Scanner;
